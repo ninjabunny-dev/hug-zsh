@@ -1,2 +1,2 @@
 # hug-zsh
- when you working on the command line and need a hug.
+ when you're working on the command line and need a hug.
