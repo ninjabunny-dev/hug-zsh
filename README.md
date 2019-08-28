@@ -1,2 +1,2 @@
 # hug-zsh
-zsh hug theme
+ when you working on the command line and need a hug.
