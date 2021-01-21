@@ -2,4 +2,4 @@
 
 ![](screenshot.png)
 
- when you're working on the command line and need a hug.
+When you're working on the command line and need a hug.
